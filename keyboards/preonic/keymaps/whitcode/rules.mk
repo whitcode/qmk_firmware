@@ -1,0 +1,5 @@
+SRC += muse.c
+AUDIO_ENABLE = yes
+DIP_SWITCH_ENABLE = no
+BOOT_MAGIC = no
+AUDIO_INIT_DELAY = yes
